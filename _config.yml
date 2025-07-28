@@ -1,8 +1,23 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 7617 Programming Site
+description: Various documentation for FRC team 7617's programming team.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+favicon_ico: "/assets/images/icon.ico"
 
+url: https://roboblazers7617.github.io
+
+# Aux links in the navbar
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "7617 GitHub":
+    - "https://github.com/roboblazers7617"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# GitHub edit link
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/roboblazers7617/roboblazers7617.github.io" # Repo URL
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
