@@ -11,6 +11,11 @@ aux_links:
   "7617 GitHub":
     - "https://github.com/roboblazers7617"
 
+# Aux links in the sidebar
+nav_external_links:
+  - title: Coding Standards
+    url: https://roboblazers7617.github.io/code-standards
+
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
